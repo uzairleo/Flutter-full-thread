@@ -1,6 +1,6 @@
 # Flutter-full-thread
 uzairleo
-Learn Flutter Like A PRO By Building Apps ( Absolutely Free & No Time Waste ) - My 2 Years of hard work to make this content. For the correct order to learn. Here is the Full Thread 👇🏻 Share for awareness.
+Learn Flutter Like A PRO By Building Apps ( Absolutely Free & No Time Waste ) 
 
  - Flutter MTECHVIRAL
  ## Basics
